@@ -1,0 +1,333 @@
+TWNANA.DevOps.Bootcamp.Updated.3.2022/
+├── resources
+│   ├── misc
+│   │   ├── 0 - Tools Installation (Dark Theme).pdf
+│   │   ├── 0 - Tools Installation (Light Theme).pdf
+│   │   ├── 10 - Kubernetes (Dark Theme).pdf
+│   │   ├── 10 - Kubernetes (Light Theme).pdf
+│   │   ├── 11 - Kubernetes on AWS (Dark Theme).pdf
+│   │   ├── 11 - Kubernetes on AWS (Light Theme).pdf
+│   │   ├── 12 - Terraform (Dark Theme).pdf
+│   │   ├── 12 - Terraform (Light Theme).pdf
+│   │   ├── 13 - Programming (Dark Theme).pdf
+│   │   ├── 13 - Programming (Light Theme).pdf
+│   │   ├── 14 - Automation (Dark Theme).pdf
+│   │   ├── 14 - Automation (Light Theme).pdf
+│   │   ├── 15 - Ansible (Dark Theme).pdf
+│   │   ├── 15 - Ansible (Light Theme).pdf
+│   │   ├── 16 - Prometheus (Dark Theme).pdf
+│   │   ├── 16 - Prometheus (Light Theme).pdf
+│   │   ├── 2 - Linux Checklist (Dark Theme).pdf
+│   │   ├── 2 - Linux Checklist (Light Theme).pdf
+│   │   ├── 3 - Git Checklist (Dark Theme).pdf
+│   │   ├── 3 - Git Checklist (Light Theme).pdf
+│   │   ├── 4 - Build Tools (Dark Theme).pdf
+│   │   ├── 4 - Build Tools (Light Theme).pdf
+│   │   ├── 5 - Cloud & IaaS Basics Checklist (Dark Theme).pdf
+│   │   ├── 5 - Cloud & IaaS Basics Checklist (Light Theme).pdf
+│   │   ├── 6 -Artifact Repository Manager (Dark Theme).pdf
+│   │   ├── 6 -Artifact Repository Manager (Light Theme).pdf
+│   │   ├── 7 -Docker (Dark Theme).pdf
+│   │   ├── 7 -Docker (Light Theme).pdf
+│   │   ├── 8 -Jenkins (Dark Theme).pdf
+│   │   ├── 8 -Jenkins (Light Theme).pdf
+│   │   ├── 9 -AWS (Dark Theme).pdf
+│   │   ├── 9 -AWS (Light Theme).pdf
+│   │   └── inventory.xlsx
+│   └── new.handsout.checklists
+│       ├── 01 - Intro to DevOps Handout.pdf
+│       ├── 02 - Linux Checklist.pdf
+│       ├── 02 - Linux Handout.pdf
+│       ├── 03 - Git Checklist.pdf
+│       ├── 03 - Git Handout.pdf
+│       ├── 04 - Build Tools Checklist.pdf
+│       ├── 04 - Build Tools Handout.pdf
+│       ├── 05 - Cloud & IaaS Basics Checklist.pdf
+│       ├── 05 - Cloud & IaaS Basics Handout.pdf
+│       ├── 06 - Nexus Checklist.pdf
+│       ├── 06 - Nexus Handout.pdf
+│       ├── 07 -Docker Checklist.pdf
+│       ├── 07 - Docker Handout.pdf
+│       ├── 08 -Jenkins Checklist.pdf
+│       ├── 08 - Jenkins Handout.pdf
+│       ├── 09 -AWS Checklist.pdf
+│       ├── 09 - AWS Handout.pdf
+│       ├── 0 - Tools Installation.pdf
+│       ├── 10 - Kubernetes Checklist.pdf
+│       ├── 10 - Kubernetes Handout.pdf
+│       ├── 11 - K8s on AWS Checklist.pdf
+│       ├── 11 - K8s on AWS Handout.pdf
+│       ├── 12 - Terraform Checklist.pdf
+│       ├── 12 - Terraform Handout.pdf
+│       ├── 13 - Programming Checklist.pdf
+│       ├── 13 - Programming Handout.pdf
+│       ├── 14 - Automation Checklist.pdf
+│       ├── 14 - Automation Handout.pdf
+│       ├── 15 - Ansible Checklist.pdf
+│       ├── 15 -Ansible Handout.pdf
+│       ├── 16 - Prometheus Checklist.pdf
+│       ├── 16 - Prometheus Handout.pdf
+│       └── Bonus - Databases Handout.pdf
+├── S01E0001.1.Bootcamp.Overview.Tools.Installation.Checklist.mp4
+├── S01E0002.2.Introduction.to.DevOps.mp4
+├── S01E0003.0.Module.Intro.Checklist.mp4
+├── S01E0004.1.Introduction.to.Operating.Systems.mp4
+├── S01E0005.2.Introduction.to.Virtualization.Virtual.Machines.mp4
+├── S01E0006.3.Setup.a.Linux.Virtual.Machine.mp4
+├── S01E0007.4.Linux.File.System.mp4
+├── S01E0008.5.Introduction.to.Command.Line.Interface.CLI.Part.1.mp4
+├── S01E0009.6.Basic.Linux.Commands.CLI.Part.2.mp4
+├── S01E0010.7.Package.Manager.Installing.Software.on.Linux.mp4
+├── S01E0011.8.Working.with.Vim.Editor.mp4
+├── S01E0012.9.Linux.Accounts.Groups.Users.Permissions.Part.1.mp4
+├── S01E0013.10.File.Ownership.Permissions.Users.Permissions.Part.2.mp4
+├── S01E0014.11.Basic.Linux.Commands.Pipes.Redirects.CLI.Part.3.mp4
+├── S01E0015.12.Introduction.to.Shell.Scripting.Part.1.mp4
+├── S01E0016.13.Shell.Scripting.Part.2.Concepts.Syntax.mp4
+├── S01E0017.14.Shell.Scripting.Part.3.Concepts.Syntax.mp4
+├── S01E0018.15.Environment.Variables.mp4
+├── S01E0019.16.Networking.mp4
+├── S01E0020.17.SSH.Secure.Shell.mp4
+├── S01E0021.0.Module.Intro.Checklist.mp4
+├── S01E0022.1.Introduction.to.Version.Control.and.Git.mp4
+├── S01E0023.2.Basic.Concepts.of.Git.mp4
+├── S01E0024.3.Setup.Git.Repository.Remote.and.Local.mp4
+├── S01E0025.4.Working.with.Git.mp4
+├── S01E0026.5.Initialize.a.Git.project.locally.mp4
+├── S01E0027.6.Concept.of.Branches.mp4
+├── S01E0028.7.Merge.Requests.mp4
+├── S01E0029.8.Deleting.Branches.mp4
+├── S01E0030.9.Rebase.mp4
+├── S01E0031.10.Resolving.Merge.Conflicts.mp4
+├── S01E0032.11.Gitignore.mp4
+├── S01E0033.12.Git.stash.mp4
+├── S01E0034.13.Going.back.in.history.mp4
+├── S01E0035.14.Undoing.commits.mp4
+├── S01E0036.15.Merging.branches.mp4
+├── S01E0037.16.Git.for.Devops.mp4
+├── S01E0038.1.Databases.in.development.process.mp4
+├── S01E0039.2.Database.Types.mp4
+├── S01E0040.0.Module.Intro.Checklist.mp4
+├── S01E0041.1.Introduction.to.Build.Tools.mp4
+├── S01E0042.2.Install.Build.Tools.mp4
+├── S01E0043.3.Installation.Help.for.Windows.User.Part.1.mp4
+├── S01E0044.4.Installation.Help.for.Windows.User.Part.2.mp4
+├── S01E0045.5.Installation.Help.for.MacOS.Unix.User.mp4
+├── S01E0046.6.Build.an.Artifact.mp4
+├── S01E0047.7.Build.Tools.for.Development.mp4
+├── S01E0048.8.Run.the.Application.mp4
+├── S01E0049.9.Build.JS.Applications.mp4
+├── S01E0050.10.Common.Concepts.and.Differences.of.Build.Tools.mp4
+├── S01E0051.11.Publish.an.Artifact.mp4
+├── S01E0052.12.Build.Tools.Docker.mp4
+├── S01E0053.13.Build.Tools.for.DevOps.mp4
+├── S01E0054.0.Module.Intro.Checklist.mp4
+├── S01E0055.1.Intro.to.Cloud.IaaS.mp4
+├── S01E0056.2.Setup.Server.on.DigitalOcean.mp4
+├── S01E0057.3.Deploy.and.run.application.artifact.on.Droplet.mp4
+├── S01E0058.4.Create.and.configure.a.Linux.user.on.a.cloud.server.mp4
+├── S01E0059.0.Module.Intro.Checklist.mp4
+├── S01E0060.1.Intro.to.Artifact.Repository.Manager.mp4
+├── S01E0061.2.Install.and.Run.Nexus.on.a.cloud.server.mp4
+├── S01E0062.3.Introduction.to.Nexus.mp4
+├── S01E0063.4.Repository.Types.mp4
+├── S01E0064.5.Publish.Artifact.to.Repository.mp4
+├── S01E0065.6.Nexus.REST.API.mp4
+├── S01E0066.7.Blob.Store.mp4
+├── S01E0067.8.Component.vs.Asset.mp4
+├── S01E0068.9.Cleanup.Policies.and.Scheduled.Tasks.mp4
+├── S01E0069.0.Module.Intro.Checklist.mp4
+├── S01E0070.1.What.is.a.Container.mp4
+├── S01E0071.2.Container.vs.Image.mp4
+├── S01E0072.3.Docker.vs.Virtual.Machine.mp4
+├── S01E0073.4.Docker.Architecture.and.components.mp4
+├── S01E0074.5.Main.Docker.Commands.mp4
+├── S01E0075.6.Debug.Commands.mp4
+├── S01E0076.7.Docker.Demo.Project.Overview.mp4
+├── S01E0077.8.Developing.with.Docker.mp4
+├── S01E0078.9.Docker.Compose.Run.multiple.Docker.containers.mp4
+├── S01E0079.10.Dockerfile.Build.your.own.Docker.Image.mp4
+├── S01E0080.11.Private.Docker.Repository.mp4
+├── S01E0081.12.Deploy.docker.application.on.a.server.mp4
+├── S01E0082.13.Docker.Volumes.Persisting.Data.mp4
+├── S01E0083.14.Docker.Volumes.Demo.mp4
+├── S01E0084.15.Create.Docker.Hosted.Repository.on.Nexus.mp4
+├── S01E0085.16.Deploy.Nexus.as.Docker.Container.mp4
+├── S01E0086.0.Module.Intro.Checklist.mp4
+├── S01E0087.1.Intro.to.Build.Automation.mp4
+├── S01E0088.2.Install.Jenkins.mp4
+├── S01E0089.3.Introduction.to.Jenkins.UI.mp4
+├── S01E0090.4.Install.Build.Tools.in.Jenkins.mp4
+├── S01E0091.5.Jenkins.Basics.Demo.Freestyle.Job.mp4
+├── S01E0092.6.Docker.in.Jenkins.mp4
+├── S01E0093.7.Freestyle.to.Pipeline.Job.mp4
+├── S01E0094.8.Intro.to.Pipeline.Job.mp4
+├── S01E0095.9.Jenkinsfile.Syntax.mp4
+├── S01E0096.10.Create.complete.Pipeline.mp4
+├── S01E0097.11.Intro.to.Multibranch.Pipeline.mp4
+├── S01E0098.12.Jenkins.Jobs.Overview.mp4
+├── S01E0099.13.Credentials.in.Jenkins.mp4
+├── S01E0100.14.Jenkins.Shared.Library.mp4
+├── S01E0101.15.Webhooks.Trigger.Pipeline.Jobs.automatically.mp4
+├── S01E0102.16.Dynamically.Increment.Application.version.in.Jenkins.Pipeline.Part.1.mp4
+├── S01E0103.17.Dynamically.Increment.Application.version.in.Jenkins.Pipeline.Part.2.mp4
+├── S01E0104.0.Module.Intro.Checklist.mp4
+├── S01E0105.1.Introduction.to.AWS.mp4
+├── S01E0106.2.Create.an.AWS.account.mp4
+├── S01E0107.3.IAM.Manage.Users.Roles.and.Permissions.mp4
+├── S01E0108.4.Regions.Availability.Zones.mp4
+├── S01E0109.5.VPC.Manage.Private.Network.on.AWS.mp4
+├── S01E0110.6.CIDR.Blocks.explained.mp4
+├── S01E0111.7.Introduction.to.EC2.Virtual.Cloud.Server.mp4
+├── S01E0112.8.Deploy.to.EC2.server.from.Jenkins.Pipeline.CI.CD.Part.1.mp4
+├── S01E0113.9.Deploy.to.EC2.server.from.Jenkins.Pipeline.CI.CD.Part.2.mp4
+├── S01E0114.10.Deploy.to.EC2.server.from.Jenkins.Pipeline.CI.CD.Part.3.mp4
+├── S01E0115.11.Introduction.to.AWS.CLI.mp4
+├── S01E0116.12.AWS.Terraform.Preview.mp4
+├── S01E0117.13.Container.Services.on.AWS.Preview.mp4
+├── S01E0118.0.Module.Intro.Checklist.mp4
+├── S01E0119.1.Intro.to.Kubernetes.mp4
+├── S01E0120.2.Main.Kubernetes.Components.mp4
+├── S01E0121.3.Kubernetes.Architecture.mp4
+├── S01E0122.4.Minikube.and.kubectl.Local.Kubernetes.Cluster.mp4
+├── S01E0123.5.Main.kubectl.commands.mp4
+├── S01E0124.6.YAML.Configuration.File.mp4
+├── S01E0125.7.Complete.Demo.Project.Deploying.Application.in.Kubernetes.Cluster.mp4
+├── S01E0126.8.Namespaces.Organizing.Components.mp4
+├── S01E0127.9.Services.Connecting.to.Applications.inside.cluster.mp4
+├── S01E0128.10.Ingress.Connecting.to.Applications.outside.cluster.mp4
+├── S01E0129.11.Volumes.Persisting.Application.Data.mp4
+├── S01E0130.12.ConfigMap.Secret.Volume.Types.mp4
+├── S01E0131.13.StatefulSet.Deploying.Stateful.Applications.mp4
+├── S01E0132.14.Managed.Kubernetes.Services.Explained.mp4
+├── S01E0133.15.Helm.Package.Manager.for.Kubernetes.mp4
+├── S01E0134.16.Helm.Demo.Managed.K8s.cluster.mp4
+├── S01E0135.17.Deploying.Images.in.Kubernetes.from.private.Docker.repository.mp4
+├── S01E0136.18.Kubernetes.Operators.for.Managing.Complex.Applications.mp4
+├── S01E0137.19.Helm.and.Operator.Demo.mp4
+├── S01E0138.20.Secure.your.cluster.Authorization.with.RBAC.mp4
+├── S01E0139.21.Microservices.in.Kubernetes.mp4
+├── S01E0140.22.Demo.project.Deploy.Microservices.Application.mp4
+├── S01E0141.23.Production.Security.Best.Practices.mp4
+├── S01E0142.24.Demo.project.Create.Helm.Chart.for.Microservices.mp4
+├── S01E0143.25.Demo.project.Deploy.Microservices.with.Helmfile.mp4
+├── S01E0144.0.Module.Intro.Checklist.mp4
+├── S01E0145.1.Container.Services.on.AWS.mp4
+├── S01E0146.2.Create.EKS.cluster.with.AWS.Management.Console.mp4
+├── S01E0147.3.Configure.Autoscaling.in.EKS.cluster.mp4
+├── S01E0148.4.Create.Fargate.Profile.for.EKS.Cluster.mp4
+├── S01E0149.5.Create.EKS.cluster.with.eksctl.command.line.tool.mp4
+├── S01E0150.6.Deploy.to.EKS.Cluster.from.Jenkins.Pipeline.mp4
+├── S01E0151.7.BONUS.Deploy.to.LKE.Cluster.from.Jenkins.Pipeline.mp4
+├── S01E0152.8.Jenkins.Credentials.Note.on.Best.Practices.mp4
+├── S01E0153.9.Complete.CI.CD.Pipeline.with.EKS.and.DockerHub.mp4
+├── S01E0154.10.Complete.CI.CD.Pipeline.with.EKS.and.ECR.mp4
+├── S01E0155.0.Module.Intro.Checklist.mp4
+├── S01E0156.1.Introduction.to.Terraform.mp4
+├── S01E0157.2.Install.Terraform.Setup.Terraform.Project.mp4
+├── S01E0158.3.Providers.in.Terraform.mp4
+├── S01E0159.4.Resources.Data.Sources.mp4
+├── S01E0160.5.Change.Destroy.Terraform.Resources.mp4
+├── S01E0161.6.Terraform.commands.mp4
+├── S01E0162.7.Terraform.State.mp4
+├── S01E0163.8.Output.Values.mp4
+├── S01E0164.9.Variables.in.Terraform.mp4
+├── S01E0165.10.Environment.Variables.in.Terraform.mp4
+├── S01E0166.11.Create.Git.Repository.for.local.Terraform.Project.mp4
+├── S01E0167.12.Automate.Provisioning.EC2.with.Terraform.Part.1.mp4
+├── S01E0168.13.Automate.Provisioning.EC2.with.Terraform.Part.2.mp4
+├── S01E0169.14.Automate.Provisioning.EC2.with.Terraform.Part.3.mp4
+├── S01E0170.15.Provisioners.in.Terraform.mp4
+├── S01E0171.16.Modules.in.Terraform.Part.1.mp4
+├── S01E0172.17.Modules.in.Terraform.Part.2.mp4
+├── S01E0173.18.Modules.in.Terraform.Part.3.mp4
+├── S01E0174.19.Automate.Provisioning.EKS.cluster.with.Terraform.Part.1.mp4
+├── S01E0175.20.Automate.Provisioning.EKS.cluster.with.Terraform.Part.2.mp4
+├── S01E0176.21.Automate.Provisioning.EKS.cluster.with.Terraform.Part.3.mp4
+├── S01E0177.22.Complete.CI.CD.with.Terraform.Part.1.mp4
+├── S01E0178.23.Complete.CI.CD.with.Terraform.Part.2.mp4
+├── S01E0179.24.Complete.CI.CD.with.Terraform.Part.3.mp4
+├── S01E0180.25.Remote.State.in.Terraform.mp4
+├── S01E0181.0.Module.Intro.Checklist.mp4
+├── S01E0182.1.Introduction.to.Python.mp4
+├── S01E0183.2.Installation.and.Local.Setup.mp4
+├── S01E0184.3.Our.first.Python.Program.mp4
+├── S01E0185.4.Python.IDE.vs.Simple.File.Editor.mp4
+├── S01E0186.5.Strings.and.Number.Data.Types.mp4
+├── S01E0187.6.Variables.mp4
+├── S01E0188.7.Functions.mp4
+├── S01E0189.8.Accepting.User.Input.mp4
+├── S01E0190.9.Conditionals.if.else.and.Boolean.Data.Type.mp4
+├── S01E0191.10.Error.Handling.with.Try.Except.mp4
+├── S01E0192.11.While.Loops.mp4
+├── S01E0193.12.Lists.and.For.Loops.mp4
+├── S01E0194.13.Comments.mp4
+├── S01E0195.14.Sets.mp4
+├── S01E0196.15.Built.In.Functions.mp4
+├── S01E0197.16.Dictionary.Data.Type.mp4
+├── S01E0198.17.Modules.mp4
+├── S01E0199.18.Project.Countdown.App.mp4
+├── S01E0200.19.Packages.PyPI.and.pip.mp4
+├── S01E0201.20.Project.Automation.with.Python.Spreadsheet.mp4
+├── S01E0202.21.OOP.Classes.and.Objects.mp4
+├── S01E0203.22.Project.API.Request.to.GitLab.mp4
+├── S01E0204.0.Module.Intro.Checklist.mp4
+├── S01E0205.1.Introduction.to.Boto.Library.AWS.SDK.for.Python.mp4
+├── S01E0206.2.Install.Boto3.and.connect.to.AWS.mp4
+├── S01E0207.3.Getting.familiar.with.Boto.mp4
+├── S01E0208.4.Terraform.vs.Python.understand.when.to.use.which.tool.mp4
+├── S01E0209.5.Health.Check.EC2.Status.Checks.mp4
+├── S01E0210.6.Write.a.Scheduled.Task.in.Python.mp4
+├── S01E0211.7.Configure.Server.Add.Environment.Tags.to.EC2.Instances.mp4
+├── S01E0212.8.EKS.cluster.information.mp4
+├── S01E0213.9.Backup.EC2.Volumes.Automate.creating.Snapshots.mp4
+├── S01E0214.10.Automate.cleanup.of.old.Snapshots.mp4
+├── S01E0215.11.Automate.restoring.EC2.Volume.from.the.Backup.mp4
+├── S01E0216.12.Handling.Errors.mp4
+├── S01E0217.13.Website.Monitoring.1.Scheduled.Task.to.Monitor.Application.Health.mp4
+├── S01E0218.14.Website.Monitoring.2.Automated.Email.Notification.mp4
+├── S01E0219.15.Website.Monitoring.3.Restart.Application.and.Reboot.Server.mp4
+├── S01E0220.0.Module.Intro.Checklist.mp4
+├── S01E0221.1.Introduction.to.Ansible.mp4
+├── S01E0222.2.Install.Ansible.mp4
+├── S01E0223.3.Setup.Managed.Server.to.Configure.with.Ansible.mp4
+├── S01E0224.4.Ansible.Inventory.and.Ansible.ad.hoc.commands.mp4
+├── S01E0225.5.Configure.AWS.EC2.server.with.Ansible.mp4
+├── S01E0226.6.Managing.Host.Key.Checking.and.SSH.keys.mp4
+├── S01E0227.7.Introduction.to.Playbooks.mp4
+├── S01E0228.8.Ansible.Modules.mp4
+├── S01E0229.9.Collections.in.Ansible.mp4
+├── S01E0230.10.Project.Deploy.Nodejs.application.Part.1.mp4
+├── S01E0231.11.Project.Deploy.Nodejs.application.Part.2.mp4
+├── S01E0232.12.Project.Deploy.Nodejs.application.Part.3.mp4
+├── S01E0233.13.Ansible.Variables.make.your.Playbook.customizable.mp4
+├── S01E0234.14.Project.Deploy.Nexus.Part.1.mp4
+├── S01E0235.15.Project.Deploy.Nexus.Part.2.mp4
+├── S01E0236.16.Ansible.Configuration.Default.Inventory.File.mp4
+├── S01E0237.17.Project.Run.Docker.applications.Part.1.mp4
+├── S01E0238.18.Project.Run.Docker.applications.Part.2.mp4
+├── S01E0239.19.Project.Terraform.Ansible.mp4
+├── S01E0240.20.Dynamic.Inventory.for.EC2.Servers.mp4
+├── S01E0241.21.Project.Deploying.Application.in.K8s.mp4
+├── S01E0242.22.Project.Run.Ansible.from.Jenkins.Pipeline.Part.1.mp4
+├── S01E0243.23.Project.Run.Ansible.from.Jenkins.Pipeline.Part.2.mp4
+├── S01E0244.24.Project.Run.Ansible.from.Jenkins.Pipeline.Part.3.mp4
+├── S01E0245.25.Ansible.Roles.Make.your.Ansible.content.more.reusable.and.modular.mp4
+├── S01E0246.Module.Intro.Checklist.mp4
+├── S01E0247.Introduction.to.Monitoring.with.Prometheus.mp4
+├── S01E0248.Install.Prometheus.Stack.in.Kubernetes.mp4
+├── S01E0249.Data.Visualization.with.Prometheus.UI.mp4
+├── S01E0250.Introduction.to.Grafana.mp4
+├── S01E0251.Alert.Rules.in.Prometheus.mp4
+├── S01E0252.Create.own.Alert.Rules.Part.1.mp4
+├── S01E0253.Create.own.Alert.Rules.Part.2.mp4
+├── S01E0254.Create.own.Alert.Rules.Part.3.mp4
+├── S01E0255.Introduction.to.Alertmanager.mp4
+├── S01E0256.Configure.Alertmanager.with.Email.Receiver.mp4
+├── S01E0257.Trigger.Alerts.for.Email.Receiver.mp4
+├── S01E0258.Monitor.Third.Party.Applications.mp4
+├── S01E0259.Deploy.Redis.Exporter.mp4
+├── S01E0260.Alert.Rules.Grafana.Dashboard.for.Redis.mp4
+├── S01E0261.Collect.Expose.Metrics.with.Prometheus.Client.Library.Monitor.own.App.Part.1.mp4
+├── S01E0262.Scrape.Own.Application.Metrics.Configure.Own.Grafana.Dashboard.Monitor.own.App.Part.2.mp4
+└── S01E0263.Congratulations.Wrap.Up.mp4
